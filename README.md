@@ -1,2 +1,2 @@
-# buffering-hint
-Proposal to add a bufferingHint attribute to HTMLMediaElement to guide internal buffering behavior.
+# This proposal graduated to [WICG incubation here](https://github.com/WICG/media-latency-hint). 
+This original repo is archived. Please file issues / pull requests using the link above. 
